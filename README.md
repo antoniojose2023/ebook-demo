@@ -1,7 +1,7 @@
 # Ebook demo
 
 ## 📒 Descrição
-De acordo com o desafio de projetos da DIO - Digital Innovation One - Criei um livro de demonstração usando o Chatgpt como escrito, MidJourney como artista para criação das imagens e PowerPoint para diagramação. Lembrando que esse é apenas de demonstração precisa para por revisões, mas já mostra o poder da IA, auxiliando na criação desse ebook.
+De acordo com o desafio de projetos da DIO - Digital Innovation One - Criei um livro de demonstração usando o Chatgpt como escritor, MidJourney como artista para criação das imagens e PowerPoint para diagramação. Lembrando que esse ebook é apenas de demonstração precisa passa por revisões, mas já mostra o poder da IA, auxiliando na criação de conteúdo.
 
 ## 🤖 Tecnologias Utilizadas
  -  ChatGPT
