@@ -1,7 +1,7 @@
 # Ebook demo
 
 ## 📒 Descrição
-Este projeto é a criação de um analista de dados virtual através de IA, para analise de uma tabela de gastos mensais, claro que você pode criar seus assistentes personalizando de acordo com suas necessidades.
+De acordo com o desafio de projetos da DIO - Digital Innovation One - Criei um livro de demostração usando o Chatgpt como escrito e MidJourney como artista para criação das imagens e PowerPoint para diagração. Lembrando que esse é apenas de demonstração precisa para por revisões, mas já mostra o poder da IA, auxiliando na criação desse ebook.
 
 ## 🤖 Tecnologias Utilizadas
  -  ChatGPT
