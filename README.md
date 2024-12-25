@@ -4,8 +4,9 @@
 Este projeto é a criação de um analista de dados virtual através de IA, para analise de uma tabela de gastos mensais, claro que você pode criar seus assistentes personalizando de acordo com suas necessidades.
 
 ## 🤖 Tecnologias Utilizadas
- -  Google AIStudio
- -  Base de dados para a analise - https://docs.google.com/spreadsheets/d/1FuqOsGRLY9_vN-LI1hQDBWPtWp1i1Co53oesjhdlCaQ/edit?usp=sharing
+ -  ChatGPT
+ -  PowerPoint
+ -  MidJourney
 
 ## 🧐 Processo de Criação
 
