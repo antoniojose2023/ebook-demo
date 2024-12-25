@@ -20,6 +20,6 @@ De acordo com o desafio de projetos da DIO - Digital Innovation One - Criei um l
 
 ## 🚀 Resultados
 
-Livro : 
+Ebook : https://drive.google.com/file/d/1RlCWNKQXuHE1_tfiBDYRlM5MAk1ey4Eq/view?usp=sharing
 
 
